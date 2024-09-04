@@ -1,0 +1,9 @@
+# Ignore the env folder containing the virtual environment
+env/
+test/
+models/
+data/
+
+# Ignore the data.json file
+data.json
+/data
